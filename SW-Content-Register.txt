@@ -1,0 +1,8 @@
+Package: dm-mcxn-windowed-watchdog
+Version: 1.0
+Outgoing License: BSD-3-Clause
+License file:   license.txt
+Release location: 	https://github.com/nxp-appcodehub/ap-mcxn-windowed-watchdog
+Origin: 		NXP (BSD-3-clause)
+			NXP (Proprietary)
+			CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0 
